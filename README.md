@@ -13,7 +13,9 @@ To run the application quickly, follow these steps:
    git clone [https://github.com/DanielEN0509/Python-Paint-App.git](https://github.com/DanielEN0509/Python-Paint-App.git)
 
 2. **Install dependencies:**
+```
 pip install -r requirements.txt
 
-3. **Launch the app:**
+4. **Launch the app:**
+```
 python main.py
