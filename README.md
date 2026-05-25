@@ -15,7 +15,9 @@ To run the application quickly, follow these steps:
 2. **Install dependencies:**
 ```
 pip install -r requirements.txt
+```
 
-4. **Launch the app:**
+3. **Launch the app:**
 ```
 python main.py
+```
